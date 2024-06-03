@@ -1,4 +1,3 @@
-Project repository for PlayOn!X (http://playon.unixstorm.org) and Realtek RTD1073
 
 | Folder    				| Description      								| 
 | :------------------------ | --------------------------------------------- | 
